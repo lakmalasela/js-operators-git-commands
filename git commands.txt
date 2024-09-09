@@ -1,0 +1,10 @@
+git init = create the loacal repository
+git add . = add all files in to stagin area
+git commit -m "your_commmit"   = create the your commit to local repo
+git remote add origin <your_repo_url>  = remote with the local repository and github
+git push origin master = push your code
+
+git clone <your_repo_url>   = clone you source code
+git pull origin master    = get the changes and merge to the code
+git branch = check your branches
+ 
